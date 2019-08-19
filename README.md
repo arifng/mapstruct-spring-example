@@ -11,4 +11,6 @@ Run the project, then request http://localhost:8080/person/ from any rest client
         "birthDate": "2019-08-19T07:35:48.313+0000"
     }
 
-When user hit the url, system load model and convert it to DTO using Mapstruct and then resturn DTO.
+When user hit the url, system load model and convert it to DTO using Mapstruct and then return DTO.
+
+This project shows the basic usage of mapstruct in spring project.
